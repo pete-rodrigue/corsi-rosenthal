@@ -27,8 +27,7 @@ Anyway the air quality in my apartment on Thursday June 8th was "very unhealthy"
 
 This is basically an air purifier built from a box fan, duct tape, and $50 in HVAC filters. They were popularized during the COVID pandemic, and I'd read that they work about as well as store-bought alternatives that can cost hundreds of dollars. Here's my version:
 
-![air filter (2)](https://github.com/pete-rodrigue/corsi-rosenthal/assets/8962291/dda44573-dde0-4c72-b4a7-8e1275b82d45)
-
+![air filter (2) (1)](https://github.com/pete-rodrigue/corsi-rosenthal/assets/8962291/efdd4d84-e15c-473a-bbc8-664dc1ca1fb5)
 
 
 I recorded the air quality in my apartment before and after switching on the box; it's a big improvement:
