@@ -11,7 +11,9 @@ Quebec experienced record-breaking heat and drought during the spring of 2023, l
 
 Like many DC residents, I live in a small apartment with a window AC unit, which allows air to enter from outside. I dug out an old Raspberry Pi Pico project to test my indoor air quality. I'd originally messed with an air monitoring kit to test the air on my walk to work.[^4] Here's what the set up looked like:
 
-![air quality monitor](https://github.com/pete-rodrigue/corsi-rosenthal/assets/8962291/82038cab-37d2-4637-ae7b-f0fdd72b9ba8)
+![air quality monitor (1)](https://github.com/pete-rodrigue/corsi-rosenthal/assets/8962291/ba0ec1ff-f7ff-4c28-9164-abdf8b87cbf7)
+
+
 
 
 Here's what some of the data looked like:
@@ -25,7 +27,9 @@ Anyway the air quality in my apartment on Thursday June 8th was "very unhealthy"
 
 This is basically an air purifier built from a box fan, duct tape, and $50 in HVAC filters. They were popularized during the COVID pandemic, and I'd read that they work about as well as store-bought alternatives that can cost hundreds of dollars. Here's my version:
 
-![air filter](https://github.com/pete-rodrigue/corsi-rosenthal/assets/8962291/379ddaa2-c377-442b-b195-a86b47652f8e)
+![air filter (2)](https://github.com/pete-rodrigue/corsi-rosenthal/assets/8962291/dda44573-dde0-4c72-b4a7-8e1275b82d45)
+
+
 
 I recorded the air quality in my apartment before and after switching on the box; it's a big improvement:
 
