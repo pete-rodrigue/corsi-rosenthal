@@ -5,8 +5,11 @@ Quebec experienced record-breaking heat and drought during the spring of 2023, l
 ![ezgif-4-e06c05e2c4](https://github.com/pete-rodrigue/corsi-rosenthal/assets/8962291/5f2965db-c139-4b33-a03e-b7b8d0a441e5)<br/>
 *NOAA*
 
-![dc-smoke-monument-ap-ps-230608_1686227632825_hpEmbed_3x2_992](https://github.com/pete-rodrigue/corsi-rosenthal/assets/8962291/665f6662-2d9a-4fcc-95cd-4d53cb52d331)
+![dc-smoke-monument-ap-ps-230608_1686227632825_hpEmbed_3x2_992 (1)](https://github.com/pete-rodrigue/corsi-rosenthal/assets/8962291/4ce67701-7417-4310-a8f3-607b449362cd)<br>
 *This is not a graphic image; it's a real photo of the sun behind the Washington Monument taken by AP staffer Julio Cortez.*
+
+<br>
+<br>
 
 ![river terrace readings](https://github.com/pete-rodrigue/corsi-rosenthal/assets/8962291/b09db225-2216-4d25-ac19-4ac0df4fc449)
 
@@ -25,7 +28,7 @@ Here's what some of the data looked like:
 
 Anyway the air quality in my apartment on Thursday June 8th was "very unhealthy", with a PM2.5 value above 200 μg/m^3. I did what many freaked-out denizens of the anthropocene did that day, and googled "cheap indoor air filter." This led to a page about "Corsi-Rosenthal boxes": https://en.wikipedia.org/wiki/Corsi%E2%80%93Rosenthal_Box
 
-![https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/How_to_make_a_Corsi-Rosenthal_Box.jpg/593px-How_to_make_a_Corsi-Rosenthal_Box.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/How_to_make_a_Corsi-Rosenthal_Box.jpg/593px-How_to_make_a_Corsi-Rosenthal_Box.jpg)
+![https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/How_to_make_a_Corsi-Rosenthal_Box.jpg/371px-How_to_make_a_Corsi-Rosenthal_Box.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/How_to_make_a_Corsi-Rosenthal_Box.jpg/371px-How_to_make_a_Corsi-Rosenthal_Box.jpg)
 
 This is basically an air purifier built from a box fan, duct tape, and $50 in HVAC filters. They were popularized during the COVID pandemic, and I'd read that they work about as well as store-bought alternatives that can cost hundreds of dollars. Here's my version:
 
