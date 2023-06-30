@@ -14,6 +14,9 @@ Quebec experienced record-breaking heat and drought during the spring of 2023, l
 ![river terrace readings](https://github.com/pete-rodrigue/corsi-rosenthal/assets/8962291/b09db225-2216-4d25-ac19-4ac0df4fc449)
 
 
+![AQI)Chart_US](https://github.com/pete-rodrigue/corsi-rosenthal/assets/8962291/8ed69bc8-d845-44ca-ba64-1d4bb9dad1b2)
+
+
 Like many DC residents, I live in a small apartment with a window AC unit, which allows air to enter from outside. I dug out an old Raspberry Pi Pico project to test my indoor air quality. I'd originally messed with an air monitoring kit to test the air on my walk to work.[^4] Here's what the set up looked like:
 
 ![air quality monitor (1)](https://github.com/pete-rodrigue/corsi-rosenthal/assets/8962291/ba0ec1ff-f7ff-4c28-9164-abdf8b87cbf7)
